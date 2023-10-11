@@ -20,5 +20,4 @@ Imagine you are managing a store, and you want to calculate the total salary of 
 |----------|-------------|------------------------------------------------------------------------------|-------------|-----------------|
 | Levi     | =RANDBETWEEN(0, 3000) | =IF(B2<500, 0, IF(B2<=1000, B2*0.05, IF(B2<=2000, B2*0.1, B2*0.15))) | 1000 KSH    | =SUM(C2,D2)    |
 | Mukuha   | =RANDBETWEEN(0, 3000) | =IF(B3<500, 0, IF(B3<=1000, B3*0.05, IF(B3<=2000, B3*0.1, B3*0.15))) | 1000 KSH    | =SUM(C3,D3)    |
-| Kinungi  | =RANDBETWEEN(0, 3000) | =IF(BN<500, 0, IF(BN<=1000, BN*0.05, IF(BN<=2000, BN*0.1, BN*0.15))) | 1000 KSH    | =SUM(CN,DN)    |
-|          | =COUNTIF(C2:CN, ">=0") |                                                                              |             |                 |
+| Kinungi  | =RANDBETWEEN(0, 3000) | =IF(BN<500, 0, IF(BN<=1000, BN*0.05, IF(BN<=2000, BN*0.1, BN*0.15))) | 1000 KSH    | =SUM(CN,DN)    |=COUNTIF(C2:CN, ">=0")|
