@@ -14,7 +14,7 @@ Imagine you are managing a store, and you want to calculate the total salary of 
 3. Calculate Total Salary: Use SUM() to calculate the total salary including the base salary and bonus for each employee.
 4. Count Employees with Bonus: Use COUNTIF() to count the number of employees who received a bonus.
 
-**example spreadsheet**
+### example spreadsheet
 
 | Employee   | Total Sales                   | Bonus                                                      | Base Salary | Total Salary                |
 |------------|--------------------------------|-------------------------------------------------------------|-------------|-----------------------------|
