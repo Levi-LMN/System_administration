@@ -18,3 +18,10 @@ man command
 - head -10 mybin2 - gives content of the line but first 10 lines only
 ## tail 
 - shows the last lines of the file
+
+# Creating a link
+
+ls -il 
+ an inode number is every nummber given to every file in linux file system
+
+* ln -s mybin4 bin4
