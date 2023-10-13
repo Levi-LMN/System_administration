@@ -9,3 +9,12 @@ to use it:
 ```
 man command
 ```
+
+## Less 
+* -N 
+* -u
+
+## head
+- head -10 mybin2 - gives content of the line but first 10 lines only
+## tail 
+- shows the last lines of the file
