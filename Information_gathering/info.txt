@@ -1,0 +1,20 @@
+There is passive and active information gathering
+Active 
+-- gain info directly from the target
+--also includes social engineering
+
+Passive 
+--there is a middle source
+
+## ping a website address
+$ ping facebook.com
+$ 
+
+## nslookup
+$ nslookup facebook.com
+
+ipinfo.info
+
+#whois
+$ whois facebook.com
+
