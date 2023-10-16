@@ -18,3 +18,17 @@ ipinfo.info
 #whois
 $ whois facebook.com
 
+## WhatWeb
+$ whatweb facebook.com -v
+--the -v is for verbose..alligning
+
+we can also use whatweb on ip address range
+
+
+$ whatweb 192.168.1.1-192.168.1.255 --aggression 3 -v
+aggression level is set to 3
+-v better the output
+
+$ whatweb 192.168.1.1-192.168.1.255 --aggression 3 -v --no-errors
+the --no-errors removes the red error openings for ip addresses that dont host or are online
+
